@@ -10,9 +10,9 @@
 
 ## Heeey, tudo bem?  👋
 
-Meu nome é Thiago Peres, sou Desenvolvedor Full-stack há poucos meses, me dedico e estudo diariamente com muito foco e empenho para entender um pouco mais das tecnologias do meu dia-a-dia e fortalecer as minhas bases.
+Meu nome é Thiago Peres, sou Desenvolvedor Web Frontend há poucos meses, me dedico e estudo diariamente com muito foco e empenho para entender um pouco mais das tecnologias do meu dia-a-dia e fortalecer as minhas bases.
 
 - 💼 Atuo como Ténico de Suporte N1 na **SOLUTIS TECNOLOGIAS**
-- 🎓 Graduando em Análise de Sistemas na **UNIVERSIDADE ESTÁCIO DE SÁ**
+- 🎓 Graduado em Análise de Sistemas na **UNIVERSIDADE ESTÁCIO DE SÁ**
 - 📚 Cursando o Bootcamp Full-Stack Javascript na **ROCKETSEAT**
-- ⚛ Techs: Node.js, ReactJS, React Native, TypeScript, etc.
+- ⚛ Techs: Node.js, ReactJS, React Native, TypeScript, Next.js, etc.
