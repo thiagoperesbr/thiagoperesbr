@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <br>
 <p align="left">
-    Heey, meu nome é Thiago Peres, sou <strong>Web Frontend Developer</strong>.<br>
+    Heey, meu nome é Thiago Peres, sou <strong>Frontend Web Developer</strong>.<br>
     
 - 💼 Atuo como Ténico de Suporte N1 na **SOLUTIS TECNOLOGIAS**
 - 🎓 Graduado em Análise de Sistemas na **UNIVERSIDADE ESTÁCIO DE SÁ**
