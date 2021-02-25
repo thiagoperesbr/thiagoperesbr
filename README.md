@@ -1,18 +1,21 @@
-<h1 align="center">
-    <img src="https://piskel-imgstore-b.appspot.com/img/b09ada97-c2e2-11ea-814b-075e685e0236.gif" width="120px" /><br>
-</h1>
-
-## Thiago Mourão Peres
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagoperesbr)](https://github.com/thiagoperesbr)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoperes/)](https://www.linkedin.com/in/thiagoperes/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.mourao.peres@gmail.com)](mailto:thiago.mourao.peres@gmail.com)
-
 ## Heeey, tudo bem?  👋
 
-Meu nome é Thiago Peres, sou Desenvolvedor Web Frontend há poucos meses, me dedico e estudo diariamente com muito foco e empenho para entender um pouco mais das tecnologias do meu dia-a-dia e fortalecer as minhas bases.
+<img src="https://github.com/thiagoperesbr/thiagoperesbr/blob/master/Web%20Developer_Outline.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left">
+    Heey, meu nome é Thiago Peres, sou <strong>Web Frontend Developer</strong>.<br>
+    
 - 💼 Atuo como Ténico de Suporte N1 na **SOLUTIS TECNOLOGIAS**
 - 🎓 Graduado em Análise de Sistemas na **UNIVERSIDADE ESTÁCIO DE SÁ**
 - 📚 Cursando o Bootcamp Full-Stack Javascript na **ROCKETSEAT**
 - ⚛ Techs: Node.js, ReactJS, React Native, TypeScript, Next.js, etc.
+</p>
+
+<p align="left">
+    💌 Para entrar em contato comigo: ⤵️
+</p>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.mourao.peres@gmail.com)](mailto:thiago.mourao.peres@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoperes/)](https://www.linkedin.com/in/thiagoperes/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagoperesbr)](https://github.com/thiagoperesbr)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagoperesbr/)](https://www.instagram.com/thiagoperesbr/)
