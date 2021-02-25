@@ -1,6 +1,6 @@
 ## Heeey, tudo bem?  👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/thiagoperesbr/thiagoperesbr/master/Web%20Developer_Outline.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Heey, meu nome é Hedênica, sou <strong>Frontend Developer!</strong>.<br>
