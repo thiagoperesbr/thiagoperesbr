@@ -1,7 +1,7 @@
 ## Heeey, tudo bem?  👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
+<br>
 <p align="left">
     Heey, meu nome é Thiago Peres, sou <strong>Web Frontend Developer</strong>.<br>
     
@@ -10,7 +10,7 @@
 - 📚 Cursando o Bootcamp Full-Stack Javascript na **ROCKETSEAT**
 - ⚛ Techs: Node.js, ReactJS, React Native, TypeScript, Next.js, etc.
 </p>
-
+<br>
 <p align="left">
     💌 Para entrar em contato comigo: ⤵️
 </p>
