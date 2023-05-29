@@ -5,7 +5,7 @@
 <p align="left">
     Heey, meu nome é Thiago Peres, sou <strong>Frontend Web Developer</strong>.<br>
     
-- 💼 Atuo como Ténico de Suporte N1 na **SOLUTIS TECNOLOGIAS**
+- 💼 Atuo como Assessor de TI na **COMPANHIA DE DESENVOLVIMENTO INDUSTRIAL**
 - 🎓 Graduado em Análise de Sistemas na **UNIVERSIDADE ESTÁCIO DE SÁ**
 - 📚 Cursando o Bootcamp Full-Stack Javascript na **ROCKETSEAT**
 - ⚛ Techs: Node.js, ReactJS, React Native, TypeScript, Next.js, etc.
